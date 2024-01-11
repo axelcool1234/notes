@@ -7,9 +7,7 @@
 
 ## Mathematics
 ### Discrete Mathematics
-
-### Misc
-- Proof for the Pythagorean Theorem
+- [Written Proofs](./proofs/main.html)
 
 ## Fundamental Programming Concepts
 ### Data Structures
