@@ -1,6 +1,7 @@
 # Resource Library
 Welcome to my resource library, where you can find references I've gathered over time for learning and exploring various topics in the vast world of computer science and mathematics. I've compiled a list of resources for various topics which I may personally dive into on my own later.
-# General Guides/Overviews
+
+## General Guides/Overviews
 - Teach Yourself CS
     - https://teachyourselfcs.com
 - Learn Mathematics from START to FINISH
@@ -126,3 +127,5 @@ Welcome to my resource library, where you can find references I've gathered over
 - Gödel, Escher, Bach: An Eternal Braid
     - Strange Loops (sort of a sequel)
 - The art of computer programming (all volumes) by Knuth
+-  Structure and Interpretation of Computer Programs
+    - Concepts, Techniques, and Models of Computer Programming (Unofficial sequel to SICP)
